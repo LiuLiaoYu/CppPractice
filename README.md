@@ -1,9 +1,3 @@
-some cpp codes, should not used in production environment directly
+# Cpp Practice
 
-
-
-Index
-
-- date
-- 
-
+! SHOULD NOT used in production environment directly
